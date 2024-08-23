@@ -1,12 +1,12 @@
 
-    <h1 align="center">Hi, I'm Vitor Olivera! </h1>
+<h1> align="center">Hi, I'm Vitor Olivera! </h1>
 <h3 align="center">A 20 year old web developer  from brazil</h3>
 
 <p align="center">The first time I've ever booted a computer I was 11 years old. I've been in love with coding and hardware ever since.</p>
 
 <h3 align="left">About me: </h3>
 
-    - 📚 I’m currently learning **HTML, CSS, JavaScript, Python, PHP and .NET/C#**
+- 📚 I’m currently learning **HTML, CSS, JavaScript, Python, PHP and .NET/C#**
 
 - 📫 I'm work at Faurecia Automotive of Brazil as Support Infraestructure
 
