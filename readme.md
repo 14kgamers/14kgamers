@@ -12,7 +12,7 @@
 
 - 📫 My e-mail is **vitorvitoroliveira92@hotmail.com**
 
-- 💻 My LinkedIn is [www.linkedin.com/in/vitor-gonçalves-de-oliveira-366355297](www.linkedin.com/in/vitor-gonçalves-de-oliveira-366355297)
+- 💻 My LinkedIn is [https://www.linkedin.com/in/vitor-gonçalves-de-oliveira-366355297](https://www.linkedin.com/in/vitor-gonçalves-de-oliveira-366355297)
 
 - ♟ My Pronouns are **he/him**
 
