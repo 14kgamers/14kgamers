@@ -7,13 +7,13 @@
 
 - 📚 I’m currently learning **HTML, CSS, JavaScript, TypeScript, next.JS, Python, PHP and .NET/C#**
 
-- 📫 I'm work at Faurecia Automotive of Brazil as Support Infraestructure
+- 📫 I'm working at Faurecia Automotive of Brazil as Support Infraestructure
 
 - 📫 My e-mail is **vitorvitoroliveira92@hotmail.com**
 
 - 💻 My LinkedIn is [https://www.linkedin.com/in/vitor-gonçalves-de-oliveira-366355297](https://www.linkedin.com/in/vitor-gonçalves-de-oliveira-366355297)
 
-- 💻This is my portfolio https://portifolio-git-main-14kgamers-projects.vercel.app
+- 💻 This is my portfolio https://portifolio-git-main-14kgamers-projects.vercel.app
 
 - ♟ My Pronouns are **he/him**
 
