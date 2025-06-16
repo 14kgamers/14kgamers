@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Vitor Olivera! </h1>
+<h1 align="center">Hi, I'm Vitor Oliveira! </h1>
 <h3 align="center">A 21 year old web developer  from brazil</h3>
 
 
