@@ -25,7 +25,8 @@
 
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=14kgamers&theme=monokai&show_icons=true='#center')  
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=14kgamers&layout=compact&theme=monokai&langs_count=6" alt="Linguagens mais utilizadas" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=14kgamers&layout=compact&theme=monokai&langs_count=6&cache_seconds=3600" alt="Linguagens mais utilizadas" />
+
  
 
 
