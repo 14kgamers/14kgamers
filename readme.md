@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Vitor Oliveira! </h1>
-<h3 align="center">A 21 year old web developer  from brazil</h3>
+<h3 align="center">A 22 year old web developer  from brazil</h3>
 
 
 <h3 align="left">About me: </h3>
