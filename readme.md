@@ -5,9 +5,9 @@
 
 <h3 align="left">About me: </h3>
 
-- 📚 I’m currently learning **HTML, CSS, JavaScript, TypeScript, Angular, Next.JS, Python, PHP and .NET/C#**
+- 📚 I’m currently learning **HTML, CSS, JavaScript, TypeScript, Angular and .NET/C# **
 
-- 📫 I'm working at Faurecia Automotive of Brazil as Support Infraestructure
+- 📫 I'm working at HeadSoft Brazil as FullStack Developer
 
 - 📫 My e-mail is **vitorvitoroliveira92@hotmail.com**
 
